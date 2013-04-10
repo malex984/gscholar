@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 # gscholar - Get bibtex entries from Goolge Scholar
 # Copyright (C) 2011  Bastian Venthur <venthur at debian org>
